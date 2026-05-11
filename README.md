@@ -28,7 +28,7 @@ No sabemos exactamente cuanto seria, a priori seria unos 4000€ toda la implant
 
 **Coste operativo (Hosting en Google Cloud, AWS, Huawei Cloud o similar).**
 
- 	una interfaz 100% en la nube y no hay que pagar hosting
+una interfaz 100% en la nube y no hay que pagar hosting
   
 **PARTE 2**
 
