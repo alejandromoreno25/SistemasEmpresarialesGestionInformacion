@@ -6,9 +6,6 @@ Victor- es el encargado de la parte 2
 Ángel- es el encargado de la parte 3
 
 ㅤㅤ
-ㅤㅤ
-ㅤㅤ
-
 **¿QUE SISTEMA DE GESTIÓN DEBEMOS DE ELEGIR?**
  ㅤㅤ
                                               ㅤㅤ
