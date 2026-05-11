@@ -5,7 +5,7 @@ Alejandro- es el encargado de la parte 1
 Victor- es el encargado de la parte 2
 Ángel- es el encargado de la parte 3
                                               **QUE SISTEMA DE GESTIÓN DEBEMOS DE ELEGIR?**
-                      ![IMAGEN](assets/zoho.png)    ![IMAGEN](assets/descarga.png)     ![IMAGEN](assets/descarga(1).png)
+                      ![IMAGEN](assets/zoho.png)    ![IMAGEN](assets/descarga.png)     ![IMAGEN](assets/descargaSAP.png)
 
 
 **PARTE 1**
