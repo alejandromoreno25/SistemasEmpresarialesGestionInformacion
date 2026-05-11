@@ -32,6 +32,7 @@ El precio de licencia son de unos 37€ por ello, a los 3 años si nuestra empre
 
 
 **PARTE 3**
+
 1. Fase de planificación
   Hay que repartir los roles de cada empleado, ver qué problemas debe resolver cada uno y si la documentación será digital (por ejemplo pdf) o a mano.
 2. Diseño de la información
@@ -42,6 +43,7 @@ El precio de licencia son de unos 37€ por ello, a los 3 años si nuestra empre
 Nos ha faltado el docker porque no sabiamos y no nos ha dado tiempo el como hacerlo.
 
 **PREGUNTAS FINALES**
+
 ¿Es coherente el TCO con la realidad de una PYME?
 
 Sí, lo es, para una PYME, el TCO que hemos propuesto cumple con los requisitos de la empresa.
