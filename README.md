@@ -1,1 +1,1 @@
-# SistemasEmpresarialesGestionInformacion
+# Sistemas Empresariales Gestion Informacion
