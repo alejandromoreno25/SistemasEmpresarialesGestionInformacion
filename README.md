@@ -8,7 +8,7 @@ Victor- es el encargado de la parte 2
 ㅤㅤ
 ㅤㅤ
 ㅤㅤ
-                                              **QUE SISTEMA DE GESTIÓN DEBEMOS DE ELEGIR?**
+                                                            **QUE SISTEMA DE GESTIÓN DEBEMOS DE ELEGIR?**
                                               ㅤㅤ
                       ![IMAGEN](assets/zoho.png)    ![IMAGEN](assets/descarga.png)     ![IMAGEN](assets/descargaSAP.png)
 
