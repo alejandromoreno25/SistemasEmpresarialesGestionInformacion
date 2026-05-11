@@ -42,8 +42,6 @@ El precio de licencia son de unos 37€ por ello, a los 3 años si nuestra empre
 3. Revisión y Pruebas
   Asegurarse de que todo está en orden, y realizar las pruebas necesarias usando el fragmento de docker-compose.yml necesario y el comando para realizar un backup de la base de datos PostgreSQL.
 
-Nos ha faltado el docker porque no sabiamos y no nos ha dado tiempo el como hacerlo.
-
 **PREGUNTAS FINALES**
 
 ¿Es coherente el TCO con la realidad de una PYME?
