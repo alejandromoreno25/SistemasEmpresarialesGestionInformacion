@@ -4,7 +4,9 @@ Para comenzar, nos hemos dividido las tareas de la actividad, para posteriorment
 Alejandro- es el encargado de la parte 1
 Victor- es el encargado de la parte 2
 Ángel- es el encargado de la parte 3
+                                              **QUE SISTEMA DE GESTIÓN DEBEMOS DE ELEGIR?**
 
+                          ![IMAGEN](assets/zoho.png)  ![IMAGEN](assets/descarga.png)  ![IMAGEN](assets/descarga%20(1).png)
 **PARTE 1**
 
 **Justifica la elección basándote en el perfil de la empresa (25 empleados, presupuesto ajustado, necesidad de personalización en el etiquetado).**
