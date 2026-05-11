@@ -5,6 +5,35 @@ Alejandro- es el encargado de la parte 1
 Victor- es el encargado de la parte 2
 Ángel- es el encargado de la parte 3
 
+**PARTE 1**
+**Justifica la elección basándote en el perfil de la empresa (25 empleados, presupuesto ajustado, necesidad de personalización en el etiquetado).**
+Teniendo en cuenta las necesidades de la empresa dada, hemos decidido que la mejor opción es Zoho One, a pesar de no ser gratuito,
+Zoho ofrece una relación calidad-precio inmejorable. 
+Con precios muy asequibles y una interfaz 100% en la nube , la plataforma compite directamente con gigantes como Salesforce o Microsoft Dynamics, pero con una lógica más sencilla y económica. como Odoo, su TCO también es muy bajo ya que se usa mucho en empresas pequeñas.
+Además, nos ofrece una alta personalización en etiquetas. pudiendo crearlas y editarlas.
+
+**Cálculo de TCO: Realiza una estimación a 3 años. No olvidéis incluir:
+Coste de licencias/suscripción.**
+El precio de licencia son de unos 37€ por ello, a los 3 años si nuestra empresa son 25 empleados nos costaría: 11.100€ al año
+**Coste de implantación (vuestras horas de desarrollo: estima 100h a 40€/h).**
+
+**Coste operativo (Hosting en Google Cloud, AWS, Huawei Cloud o similar).**
+ 	una interfaz 100% en la nube y no hay que pagar hosting
+  
+**PARTE 2**
+
+
+
+
+**PARTE 3**
+
+|  | Record rules | Stock/Albaranes | Facturas | Presupuestos |
+| :---- | :---- | :---- | :---- | :---- |
+| Administrador | ✓  | ✓  | ✓  | ✓  |
+| Comercial | ✓  | ✗ | ✗ | ✓  |
+| Operario de Almacén | ✗ | ✓  | ✗ | ✗ |
+| Contable | ✗ | ✗ | ✓  | ✗ |
+
 
 ¿Es coherente el TCO con la realidad de una PYME?
 
