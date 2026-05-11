@@ -10,6 +10,8 @@
 **PARTE 1**
 
 **Justifica la elección basándote en el perfil de la empresa (25 empleados, presupuesto ajustado, necesidad de personalización en el etiquetado).**
+
+
 Teniendo en cuenta las necesidades de la empresa dada, hemos decidido que la mejor opción es Zoho One, a pesar de no ser gratuito,
 Zoho ofrece una relación calidad-precio inmejorable. 
 Con precios muy asequibles y una interfaz 100% en la nube , la plataforma compite directamente con gigantes como Salesforce o Microsoft Dynamics, pero con una lógica más sencilla y económica. como Odoo, su TCO también es muy bajo ya que se usa mucho en empresas pequeñas.
