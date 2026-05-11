@@ -1,0 +1,6 @@
+1. Fase de planificación
+  Hay que repartir los roles de cada empleado, ver qué problemas debe resolver cada uno y si la documentación será digital (por ejemplo pdf) o a mano.
+2. Diseño de la información
+  Buscar información sobre cuál es el problema, cómo resolverlo y elaborar una tabla de posibles errores.
+3. Revisión y Pruebas
+  Asegurarse de que todo está en orden, y realizar las pruebas necesarias usando el fragmento de docker-compose.yml necesario y el comando para realizar un backup de la base de datos PostgreSQL.
