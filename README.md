@@ -6,6 +6,7 @@ Victor- es el encargado de la parte 2
 Ángel- es el encargado de la parte 3
 
 **PARTE 1**
+
 **Justifica la elección basándote en el perfil de la empresa (25 empleados, presupuesto ajustado, necesidad de personalización en el etiquetado).**
 Teniendo en cuenta las necesidades de la empresa dada, hemos decidido que la mejor opción es Zoho One, a pesar de no ser gratuito,
 Zoho ofrece una relación calidad-precio inmejorable. 
@@ -37,6 +38,7 @@ El precio de licencia son de unos 37€ por ello, a los 3 años si nuestra empre
   Buscar información sobre cuál es el problema, cómo resolverlo y elaborar una tabla de posibles errores.
 3. Revisión y Pruebas
   Asegurarse de que todo está en orden, y realizar las pruebas necesarias usando el fragmento de docker-compose.yml necesario y el comando para realizar un backup de la base de datos PostgreSQL.
+Nos ha faltado el docker porque no sabiamos y no nos ha dado tiempo el como hacerlo.
 
 **PREGUNTAS FINALES**
 ¿Es coherente el TCO con la realidad de una PYME?
