@@ -8,10 +8,11 @@ Victor- es el encargado de la parte 2
 ㅤㅤ
 ㅤㅤ
 ㅤㅤ
-                                                            **QUE SISTEMA DE GESTIÓN DEBEMOS DE ELEGIR?**
+ **¿QUE SISTEMA DE GESTIÓN DEBEMOS DE ELEGIR?**
+ ㅤㅤ
                                               ㅤㅤ
                       ![IMAGEN](assets/zoho.png)    ![IMAGEN](assets/descarga.png)     ![IMAGEN](assets/descargaSAP.png)
-
+__________________________________________________________________________________________________________________________________________
 
 **PARTE 1**
 
@@ -23,8 +24,14 @@ Además, nos ofrece una alta personalización en etiquetas. pudiendo crearlas y 
 
 **Cálculo de TCO: Realiza una estimación a 3 años. No olvidéis incluir:
 Coste de licencias/suscripción.**
+
+
 El precio de licencia son de unos 37€ por ello, a los 3 años si nuestra empresa son 25 empleados nos costaría: 11.100€ al año
+
+
 **Coste de implantación (vuestras horas de desarrollo: estima 100h a 40€/h).**
+
+No sabemos exactamente cuanto seria, a priori seria unos 4000€ toda la implantación pero nos ha faltado investigarlo de mejor forma.
 
 **Coste operativo (Hosting en Google Cloud, AWS, Huawei Cloud o similar).**
  	una interfaz 100% en la nube y no hay que pagar hosting
@@ -60,3 +67,13 @@ Si, La matriz esta diseñada para que se cumplan los requisitos, entre ellos el 
 
 ¿El comando de backup es sintácticamente correcto?
 
+
+
+**Bibliografia**
+[1]https://www.appvizer.com/magazine/operations/erp/zoho-vs-odoo 
+
+
+[2]https://www.zoho.com/es-xl/one/plan-details.html 
+
+
+[3]Documentación de Willman.
