@@ -8,7 +8,8 @@ Victor- es el encargado de la parte 2
 ㅤㅤ
 ㅤㅤ
 ㅤㅤ
- **¿QUE SISTEMA DE GESTIÓN DEBEMOS DE ELEGIR?**
+
+**¿QUE SISTEMA DE GESTIÓN DEBEMOS DE ELEGIR?**
  ㅤㅤ
                                               ㅤㅤ
                       ![IMAGEN](assets/zoho.png)    ![IMAGEN](assets/descarga.png)     ![IMAGEN](assets/descargaSAP.png)
@@ -34,6 +35,8 @@ El precio de licencia son de unos 37€ por ello, a los 3 años si nuestra empre
 No sabemos exactamente cuanto seria, a priori seria unos 4000€ toda la implantación pero nos ha faltado investigarlo de mejor forma.
 
 **Coste operativo (Hosting en Google Cloud, AWS, Huawei Cloud o similar).**
+
+
  	una interfaz 100% en la nube y no hay que pagar hosting
   
 **PARTE 2**
@@ -70,6 +73,8 @@ Si, La matriz esta diseñada para que se cumplan los requisitos, entre ellos el 
 
 
 **Bibliografia**
+
+
 [1]https://www.appvizer.com/magazine/operations/erp/zoho-vs-odoo 
 
 
