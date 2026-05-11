@@ -8,7 +8,7 @@ Victor- es el encargado de la parte 2
 
 ¿Es coherente el TCO con la realidad de una PYME?
 
-Sí, lo es, para una PYME el TCO es una herramienta de flujo de caja y gestión de riesgos.
+Sí, lo es, para una PYME, el TCO que hemos propuesto cumple con los requisitos de la empresa.
 
 ¿La matriz RBAC evita que el comercial vea los costes de producción?
 
